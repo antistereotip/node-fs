@@ -1,9 +1,9 @@
 1 n-1 frizer muski zenski povoljno popust-penzioneri radno-vreme-8-20 visnjicki-venac-12
-2 n-2 frizer muski  povoljno  popust-penzioneri  radno-vreme-8-18  visnjicki-venac-18
-3  n-3 prodavnica mesovita roba popusti radno-vreme-8-22 visnjicki-venac-22
-4  n-4 trafika razno cigarete sokovi stampa dopune radno-vreme-8-20 visnjicki-venac 24
-5  n-5 posta uplate isplate posiljke menjacnica radno-vreme-8-16 visnjicki-venac-19
-6  n-6 menjacnica razmena-novca valuta evro dolar dinar radno-vreme-10-18 visnjicki-venac-30
+2 n-2 frizer muski povoljno  popust-penzioneri  radno-vreme-8-18  visnjicki-venac-18
+3 n-3 prodavnica mesovita roba popusti radno-vreme-8-22 visnjicki-venac-22
+4 n-4 trafika razno cigarete sokovi stampa dopune radno-vreme-8-20 visnjicki-venac 24
+5 n-5 posta uplate isplate posiljke menjacnica radno-vreme-8-16 visnjicki-venac-19
+6 n-6 menjacnica razmena-novca valuta evro dolar dinar radno-vreme-10-18 visnjicki-venac-30
 7 n-7 pijaca voce povrce cvece radno-vreme-6-14 radni-dani-sreda-cetvrtak-petak-subota-nedelja visnjicki-venac-2-6
 8 n-8 apoteka lekoci recepti radno-vreme-8-16 visnjicki-venac-13
-9  n-9 prodavnica zdrva-hrana organska-ishrana vitamini radno-vreme-10-20 visnjicki-venac-2
+9 n-9 prodavnica zdrva-hrana organska-ishrana vitamini radno-vreme-10-20 visnjicki-venac-2
