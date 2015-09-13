@@ -10,3 +10,5 @@ radno-vreme-10-radni-dani.sh - join-ovan upit egrep
 
 node-counter.sh - brojac
 
+egrep "n-1|n-3|ponedeljak" node.1.data.txt  - join q
+
