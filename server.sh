@@ -8,6 +8,7 @@ apt install php7.0-odbc php7.0-opcache php7.0-mbstring -y
 apt install php7.0-mcrypt php7.0-ldap php7.0-json php7.0-intl -y
 apt install php7.0-imap php7.0-interbase php-all-dev php7.0 -y
 apt install php7.0-curl php7.0-common php7.0-cli php7.0-cgi php7.0-bz2 -y
+apt install git gist git-all -y
 /etc/init.d/apache2 restart
 mysql -u root -p
 #MariaDB [(none)]> CREATE USER 'wpuser'@'localhost' IDENTIFIED BY 'wppass';
