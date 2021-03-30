@@ -1,6 +1,5 @@
 from gpiozero import LED
 import time
-import keyboard
 K = input("Sleep for: ")
 zeleno = LED(18)
 zuto = LED(17)
@@ -30,17 +29,6 @@ if K == 1 :
    while True :
       dva()
       jedan()
-#      while True:
- #      answer = raw_input("Run again? (y/n): ")
-  #     if answer not in ('y', 'n'):
-   #            print("Invalid input.")
-    #           continue
-    #   if answer == 'y':
-     #                  dva()
-#               jedan()
- #      else:
-  #             print("Goodbye")
-   #            break
 
 elif K == 2 :
    while True :
@@ -52,4 +40,3 @@ else :
 
 
 
-# while True:
