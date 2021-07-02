@@ -1,5 +1,4 @@
-  GNU nano 2.7.4                                                  File: size.php                                                            
-
+                                                 File: size.php                                                            
 <?php
 function folderSize($dir){
 $count_size = 0;
