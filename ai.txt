@@ -1,0 +1,8 @@
+irssi
+/connect localhost
+/j #test
+/nick hightech
+!high
+!hello
+
+
